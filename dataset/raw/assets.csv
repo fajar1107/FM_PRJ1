@@ -1,0 +1,12 @@
+asset_id,asset_type,install_date,criticality,building
+A100,HVAC,2016-03-15,High,Building A
+A101,Electrical,2018-06-20,Medium,Building A
+A102,Plumbing,2019-01-10,Low,Building B
+A103,HVAC,2015-11-05,High,Building B
+A104,Electrical,2020-02-18,Medium,Building C
+A105,HVAC,2014-09-22,High,Building C
+A106,IT,2021-07-01,Low,Building A
+A107,Plumbing,2017-05-30,Medium,Building B
+A108,Electrical,2016-08-12,High,Building C
+A109,HVAC,2019-10-10,Medium,Building A
+A110,IT,2022-04-25,Low,Building B

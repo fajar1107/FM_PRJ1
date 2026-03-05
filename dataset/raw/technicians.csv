@@ -1,0 +1,6 @@
+technician_id,technician_name,skill,vendor
+T01,Arun Kumar,HVAC,Internal
+T02,Rahul Nair,Electrical,Internal
+T03,Suresh Menon,Plumbing,Vendor A
+T04,Anil Thomas,HVAC,Vendor B
+T05,Deepak Rao,IT,Vendor A
