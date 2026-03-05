@@ -1,0 +1,23 @@
+└── 📁 FM_PRJ1
+    ├── 📄 CATALOG_SETUP.dbquery.ipynb
+    ├── 📁 EDA
+    │   └── 📁 bronze
+    │       ├── 📄 eda_assets.ipynb
+    │       ├── 📄 eda_technicians.ipynb
+    │       └── 📄 eda_work_orders.ipynb
+    ├── 📁 ETL
+    │   ├── 📁 bronze
+    │   │   └── 📄 bronze_extract_raw.ipynb
+    │   ├── 📁 gold
+    │   │   ├── 📄 gold_load_dim_asset.ipynb
+    │   │   ├── 📄 gold_load_dim_technician.ipynb
+    │   │   └── 📄 gold_load_fact_work_order.ipynb
+    │   └── 📁 silver
+    │       ├── 📄 silver_transform_asset.ipynb
+    │       ├── 📄 silver_transform_technician.ipynb
+    │       └── 📄 silver_transform_work_order.ipynb
+    └── 📁 dataset
+        └── 📁 raw
+            ├── 📄 assets.csv
+            ├── 📄 technicians.csv
+            └── 📄 work_orders.csv
